@@ -1,8 +1,6 @@
 # Prevenção da tuberculose: relaxar é perder
-Neste trabalho estudou-se os números de casos de tuberculose - doença infectocontagiosa que ataca principalmente os pulmões - nas diferentes UFs das regiões do 
+Neste trabalho estudou-se os números de casos de [tuberculose](#sobre-a-tuberculose) - doença infectocontagiosa que ataca principalmente os pulmões - nas diferentes UFs das regiões do 
 Brasil, ao mesmo tempo que foi observada a cobertura vacinal da BCG (Bacilo Calmette-Guérin), que é a vacina contra a tuberculose, nas diferentes UFs.
-
-[Sobre a tuberculose](#sobre-a-tuberculose)
 
 Foram utilizadas 4 diferentes base de dados:
 

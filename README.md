@@ -68,6 +68,7 @@ Com o desenvolvimento de antibióticos na década de 1950, o tratamento tornou-s
 Atualmente é um agradável parque, cuja memória é preservada e respeitada.
 
   <p align="center">
-  <img src="/img/vic_aranha.jpg>
+  <img src="/img/vic_aranha.jpg"> <br>
+  Fonte: http://resgatandocidades.com/brasil/sp/saojosedoscampos/vicentina-aranha/
   </p>
-Fonte: http://resgatandocidades.com/brasil/sp/saojosedoscampos/vicentina-aranha/
+

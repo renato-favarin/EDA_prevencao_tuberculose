@@ -4,10 +4,10 @@ Brasil, ao mesmo tempo que foi observada a cobertura vacinal da BCG (Bacilo Calm
 
 Foram utilizadas 4 diferentes base de dados:
 
-- Base de dados da população, por ano e UF (IBGE)
-- Base de dados de casos de tuberculose confirmados, por ano e UF (DATASUS)
-- Base de dados de nascimentos vivos, por ano e UF (DATASUS)
-- Base de dados de doses aplicadas de BCG, por ano e UF (DATASUS)
+- Base de dados da população, por ano e UF (IBGE);
+- Base de dados de casos de tuberculose confirmados, por ano e UF (DATASUS);
+- Base de dados de nascimentos vivos, por ano e UF (DATASUS);
+- Base de dados de doses aplicadas de BCG, por ano e UF (DATASUS);
 
 O período do estudo foi de 2001 a 2019 (para os casos de tuberculose por 100 mil habitantes) e de 2001 a 2018 (para a cobertura vacinal da BCG).
 
